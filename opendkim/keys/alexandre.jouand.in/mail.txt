@@ -1,0 +1,2 @@
+mail._domainkey	IN	TXT	( "v=DKIM1; k=rsa; "
+	  "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDcYVHYdiJlupYBmrRQZDHTeQ7qw67BPk80EyCI2xV/waB0WmlSvULm/9FObRb2AV/MNj7rybDNt5ERgYkmAIPCPRB64x9hkr0OGneJ3j4HJx105XFadYsEMChpATt7DRyXBZ6tDVSlek6kxBnvIlxra9QD8ACyEyxoiux9jR6CTwIDAQAB" )  ; ----- DKIM key mail for alexandre.jouand.in

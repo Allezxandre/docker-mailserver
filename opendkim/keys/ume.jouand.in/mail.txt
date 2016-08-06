@@ -1,0 +1,2 @@
+mail._domainkey	IN	TXT	( "v=DKIM1; k=rsa; "
+	  "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDQWzv8+Y0TYWZDhgTcpo0aNyURQDQFmtLzXGf4pzCVYZsgSi3EhipPoK+MBXXSuaOR7htc7gHprzJRNJKJT4KOahXi0RTRwt4MkXHd+w8kT4+AubGK3TsZ5RSE/VJp1qjdQRBH6yxNrC0GdMG8rtgJrjTKv4Riiam+m8LaDw2IvQIDAQAB" )  ; ----- DKIM key mail for ume.jouand.in

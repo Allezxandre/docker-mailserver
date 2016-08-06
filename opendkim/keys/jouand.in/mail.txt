@@ -1,0 +1,2 @@
+mail._domainkey	IN	TXT	( "v=DKIM1; k=rsa; "
+	  "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDky7pIPpFTkA2pzAJE7EkGeLgywpCX/6VR85/YJE3LIai8Yzxo/9NXKfvm19YoGkxcBqErplr+CmVd4hCEce0C3TLgiLl3kB29HovrfYo57qrwXBaNH7t+WaBY/dl1CoHsH6B2AsIjmMf1s95wVu8YR/BSgegpBP7dOUS+MjF+wwIDAQAB" )  ; ----- DKIM key mail for jouand.in

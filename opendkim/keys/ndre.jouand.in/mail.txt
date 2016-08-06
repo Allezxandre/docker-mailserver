@@ -1,0 +1,2 @@
+mail._domainkey	IN	TXT	( "v=DKIM1; k=rsa; "
+	  "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDA37cUn3rCN4bGkCZs/l+6I+Qguh9aGjU6xiRosZVdh/1u1Igdk5MquJm2+jkDWYEj4aZB8midtKlddDmyMSerCowO23tKHsuss34WzOxxL9wowtlxr5pPG9oLKgwNP5pg2xFmosrVg4M9UggsuNQsd0zUkvEYD+hHYn6IIQ+jnwIDAQAB" )  ; ----- DKIM key mail for ndre.jouand.in
